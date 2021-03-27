@@ -1,0 +1,13 @@
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\bin\Release\Cafe_otomasyon_Projesi.exe.config
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\bin\Release\Cafe_otomasyon_Projesi.exe
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\bin\Release\Cafe_otomasyon_Projesi.pdb
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.csprojAssemblyReference.cache
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.Form1.resources
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.formlar.Masalar_Form.resources
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.formlar.Personel_Form.resources
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.Personel_Bilgi.resources
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.Properties.Resources.resources
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.exe
+C:\Users\Omer\source\repos\Cafe_otomasyon_Projesi\Cafe_otomasyon_Projesi\obj\Release\Cafe_otomasyon_Projesi.pdb
